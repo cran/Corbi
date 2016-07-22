@@ -1,6 +1,7 @@
-072abe357ccc08e625157047c927b86b *DESCRIPTION
-7f59bc416c8315c2443cc38e10fc7bce *NAMESPACE
-818aef3c7a3ff5ded986a11c765bd866 *R/Corbi-package.R
+48e642c0bc66ac42ca2a5c112a423946 *DESCRIPTION
+e3a9d53fa75f36e64a6eb66338ae9506 *NAMESPACE
+8a33ac3b1423ad959b66f54e24a3ae20 *R/Corbi-package.R
+2016b2c74e4b1ebf50d2980914633647 *R/markrank.R
 07b837abb7cf16e442b67da12808bd91 *R/multihyper.R
 224a1e90f44587c4d1244ddb73f18709 *R/net_align.R
 cb0418287a4ea8c0fd842dec32bdf193 *R/net_functions.R
@@ -10,13 +11,14 @@ dcab5c6c86e75bf029882975871ce49e *R/pro_align.R
 43ee2375f1e5c43ef91fe1f2f816639b *R/subnets.R
 01da9b2e428958b95007353935685ffa *R/utils.R
 7f489da4abddc96524290ab3474638a2 *README.md
-4b12282bc4d5df41a82b7457edb2b274 *man/Corbi-package.Rd
+d52e863f4823c8d85c475d9b9773d7bb *man/Corbi-package.Rd
 af3eb8650011dd4e66222c22cfa6a64a *man/best_subnets.Rd
 63a2f85bf13c20e16118c6a3a1693c50 *man/column.Rd
 bd866f8eff8bb7f0cf6ba790a8c801e9 *man/extend_subnets.Rd
 2428faa1a30fd984459856602d750fe7 *man/get_shortest_distances.Rd
 4f8dcf1dddd9debcf394d14837955181 *man/get_subnets.Rd
 72e85e3f87c28abde222dad6d182aef8 *man/kappa_score.Rd
+621d7cdfcda5085c527a1c1f7d17a5c4 *man/markrank.Rd
 16a14f58fc2eb1832f054ca120f0f670 *man/net_align.Rd
 1a8e11e927048f7937c7a99a8a59a8da *man/net_query.Rd
 df5ad27f9465bdbeb4a4737214ead5aa *man/nnzero.Rd
@@ -32,6 +34,11 @@ afe36f50426aaecd5bb443bb201b4267 *man/submatrix.Rd
 ab3ed018525c7a7926785f3769035b83 *src/misc.cpp
 d5afe9606e7b724551042a452043dfc5 *src/misc.h
 6aa408b220d420a63905dcdfd6b49a6e *src/multihyper.cpp
+5fb65372e771477c6268291ed414d544 *tests/markrank/answer.RData
+2e3c974f096784133af1d694c86ed6d4 *tests/markrank/dataset.RData
+575137a5a0850b9f1d066d9608b79831 *tests/markrank/de_list.RData
+53bd7866b3256dff33469579adcddd15 *tests/markrank/search_net.R
+867d12c6ef375f166cbdb3b60c499ada *tests/markrank/subnetwork.txt
 a68790d0e4cc5bc1a926838c6083b7ba *tests/net_align/answer1.txt
 d9602b4a2d7de3f59abee92de27c042e *tests/net_align/answer1_uni.txt
 13f6765b3012f560e7a8e484d9b6e7f6 *tests/net_align/net1.txt
@@ -44,5 +51,6 @@ c155d694a1b4cbdfed8e21a7f371741a *tests/net_query/answer2.txt
 c524a16c37d360c70e54b23dc960bf6e *tests/net_query/query2.txt
 bdef3c60888a8fc861d9bff90076f5c9 *tests/net_query/sim.txt
 bb60a7e7d33e3e21793b660d14ef4ca5 *tests/net_query/target.txt
+9d66a5ed5a75ccc123a5aaf5b3e3964f *tests/test_markrank.R
 a7cdc25003b2cecab7ce242892a0faf9 *tests/test_net_align.R
 07cfe4f3f449b059f31a0c890910a2fb *tests/test_net_query.R
