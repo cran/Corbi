@@ -1,4 +1,4 @@
-48e642c0bc66ac42ca2a5c112a423946 *DESCRIPTION
+4b7ff0d9b26ea7a76bc7d81512e22d16 *DESCRIPTION
 e3a9d53fa75f36e64a6eb66338ae9506 *NAMESPACE
 8a33ac3b1423ad959b66f54e24a3ae20 *R/Corbi-package.R
 2016b2c74e4b1ebf50d2980914633647 *R/markrank.R
@@ -27,7 +27,7 @@ f535fc69890c57da487e53d10deaf172 *man/rmultihyper.Rd
 afe36f50426aaecd5bb443bb201b4267 *man/submatrix.Rd
 1871c615bee66c1a536ba7d92b84e6b6 *man/write_net.Rd
 9fc5cf2251e1810422176790eadad617 *src/Corbi.cpp
-11b22f7971ac26ef4188d259010f7afd *src/Corbi.h
+a616a265277bc7df2299126657bce199 *src/Corbi.h
 5e366483217ac19f7f83be7259e11947 *src/NetQuery.cpp
 699c0fedbdcc71a18571d6d4e6fdd4c5 *src/ProAlign.cpp
 2eb011c06ffc181edb031ed145e4a0ba *src/Subnets.cpp
