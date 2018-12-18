@@ -1,5 +1,5 @@
 Package: Corbi
-Version: 0.4-2
+Version: 0.4-3
 Title: Collection of Rudimentary Bioinformatics Tools
 Description: Provides a bundle of basic and fundamental bioinformatics tools,
     such as network querying and alignment, subnetwork extraction and search,
@@ -11,20 +11,21 @@ Authors@R: c(person("Ling-Yun", "Wu", role = c("aut", "cre"), email =
 ByteCompile: TRUE
 Depends: R (>= 3.0.2)
 Imports: CRF, Matrix, mpmi
-Suggests: MASS, matrixcalc, knitr, rmarkdown
+Suggests: knitr, rmarkdown, MASS, matrixcalc
 VignetteBuilder: knitr
 License: GPL (>= 2)
 BugReports: https://github.com/wulingyun/Corbi/issues
 URL: https://github.com/wulingyun/Corbi
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
+Encoding: UTF-8
 Author: Ling-Yun Wu [aut, cre],
   Qiang Huang [aut],
   Duanchen Sun [aut]
 Maintainer: Ling-Yun Wu <wulingyun@gmail.com>
 Repository: CRAN
 Repository/R-Forge/Project: corbi
-Repository/R-Forge/Revision: 32
-Repository/R-Forge/DateTimeStamp: 2017-05-01 15:08:41
-Date/Publication: 2017-05-03 15:41:46 UTC
+Repository/R-Forge/Revision: 34
+Repository/R-Forge/DateTimeStamp: 2018-12-18 05:10:13
+Date/Publication: 2018-12-18 09:10:15 UTC
 NeedsCompilation: yes
-Packaged: 2017-05-01 15:26:31 UTC; rforge
+Packaged: 2018-12-18 05:27:22 UTC; rforge

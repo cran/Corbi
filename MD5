@@ -1,4 +1,4 @@
-005d6f111d0d75a5123b2df526ef51bc *DESCRIPTION
+cad44312f1f0dd4e31f0ccf5a24f7565 *DESCRIPTION
 e3a9d53fa75f36e64a6eb66338ae9506 *NAMESPACE
 8a33ac3b1423ad959b66f54e24a3ae20 *R/Corbi-package.R
 55acbdc8ea0436e1643dd594ceecee6e *R/markrank.R
@@ -11,9 +11,9 @@ dcab5c6c86e75bf029882975871ce49e *R/pro_align.R
 43ee2375f1e5c43ef91fe1f2f816639b *R/subnets.R
 01da9b2e428958b95007353935685ffa *R/utils.R
 245be8c8f8fef2c267698c0c4e0a470c *README.md
-8758317b9f2efea7b5acf509a5315030 *build/vignette.rds
+0f2dbd8bf0a22d8fea32abe946d9d2dd *build/vignette.rds
 674747c619c079e69f06d3be10155d8c *inst/doc/MarkRank.Rmd
-2dc1789568b741714decfac39987c504 *inst/doc/MarkRank.pdf
+507472167e9c6426b097ad8694fdc0a9 *inst/doc/MarkRank.pdf
 60666a4b58da62863162a3a2dbf8d516 *man/Corbi-package.Rd
 0ca05217cfd5864dc49fc2fba56e0605 *man/best_subnets.Rd
 cd67b12ef6442c445ce3af67c2ca8a1e *man/column.Rd
@@ -22,8 +22,8 @@ a015813db8e4b2b62750f177a380843b *man/get_shortest_distances.Rd
 e478b2a5855e9b4d7d1594e05f989fe7 *man/get_subnets.Rd
 b3869e0ffa691157e18e321435810819 *man/kappa_score.Rd
 e184dc245d5dd832f40d5a85c538fffb *man/markrank.Rd
-d78a15bf6dea2ff2ae09162c8bf78eec *man/net_align.Rd
-db9b0f57925657129c26fe57ccf7b092 *man/net_query.Rd
+bab61a74fa8c12cb5c9168a6ddfe7472 *man/net_align.Rd
+fbeb51d00f203296b2f06eea84e5c3ae *man/net_query.Rd
 c362e96f471eef92ebf75ff779913604 *man/nnzero.Rd
 b6011ddf482de17bef6d88a9a291035c *man/read_net.Rd
 91157dc78f57baa7665f7b306aebb241 *man/rmultihyper.Rd
@@ -34,7 +34,7 @@ a616a265277bc7df2299126657bce199 *src/Corbi.h
 5e366483217ac19f7f83be7259e11947 *src/NetQuery.cpp
 699c0fedbdcc71a18571d6d4e6fdd4c5 *src/ProAlign.cpp
 2eb011c06ffc181edb031ed145e4a0ba *src/Subnets.cpp
-ab3ed018525c7a7926785f3769035b83 *src/misc.cpp
+456e985d1bcc96a38dac9c7ae1f636df *src/misc.cpp
 d5afe9606e7b724551042a452043dfc5 *src/misc.h
 6aa408b220d420a63905dcdfd6b49a6e *src/multihyper.cpp
 a68790d0e4cc5bc1a926838c6083b7ba *tests/net_align/answer1.txt
@@ -52,7 +52,5 @@ bb60a7e7d33e3e21793b660d14ef4ca5 *tests/net_query/target.txt
 a7cdc25003b2cecab7ce242892a0faf9 *tests/test_net_align.R
 07cfe4f3f449b059f31a0c890910a2fb *tests/test_net_query.R
 674747c619c079e69f06d3be10155d8c *vignettes/MarkRank.Rmd
-63d5ee45218b358330a5081cd85a9217 *vignettes/MarkRank.html
-44f88ee6664a02cbd6e8e72ce2a60d1e *vignettes/MarkRank.md
 e75659576664791dcc2c0cac9e6b9f3a *vignettes/network.txt
 7c39044270a4f07e1d7d944c2097b88f *vignettes/search_net.R
