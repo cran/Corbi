@@ -1,5 +1,5 @@
 Package: Corbi
-Version: 0.4-3
+Version: 0.4-4
 Title: Collection of Rudimentary Bioinformatics Tools
 Description: Provides a bundle of basic and fundamental bioinformatics tools,
     such as network querying and alignment, subnetwork extraction and search,
@@ -24,8 +24,8 @@ Author: Ling-Yun Wu [aut, cre],
 Maintainer: Ling-Yun Wu <wulingyun@gmail.com>
 Repository: CRAN
 Repository/R-Forge/Project: corbi
-Repository/R-Forge/Revision: 34
-Repository/R-Forge/DateTimeStamp: 2018-12-18 05:10:13
-Date/Publication: 2018-12-18 09:10:15 UTC
+Repository/R-Forge/Revision: 36
+Repository/R-Forge/DateTimeStamp: 2019-03-04 04:45:53
+Date/Publication: 2019-03-04 11:50:17 UTC
 NeedsCompilation: yes
-Packaged: 2018-12-18 05:27:22 UTC; rforge
+Packaged: 2019-03-04 05:06:15 UTC; rforge

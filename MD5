@@ -1,8 +1,8 @@
-cad44312f1f0dd4e31f0ccf5a24f7565 *DESCRIPTION
-e3a9d53fa75f36e64a6eb66338ae9506 *NAMESPACE
+8cde276f66d3b4e78a9c5041729d92ed *DESCRIPTION
+19097533cec900795f783afeed773b05 *NAMESPACE
 8a33ac3b1423ad959b66f54e24a3ae20 *R/Corbi-package.R
 55acbdc8ea0436e1643dd594ceecee6e *R/markrank.R
-07b837abb7cf16e442b67da12808bd91 *R/multihyper.R
+04d9b251740daba6ed1872d31afa4382 *R/multihyper.R
 224a1e90f44587c4d1244ddb73f18709 *R/net_align.R
 cb0418287a4ea8c0fd842dec32bdf193 *R/net_functions.R
 a32e390527632004272fac9270302c7a *R/net_query.R
@@ -11,9 +11,9 @@ dcab5c6c86e75bf029882975871ce49e *R/pro_align.R
 43ee2375f1e5c43ef91fe1f2f816639b *R/subnets.R
 01da9b2e428958b95007353935685ffa *R/utils.R
 245be8c8f8fef2c267698c0c4e0a470c *README.md
-0f2dbd8bf0a22d8fea32abe946d9d2dd *build/vignette.rds
+363d0c4076f474f4c77576869dcd1811 *build/vignette.rds
 674747c619c079e69f06d3be10155d8c *inst/doc/MarkRank.Rmd
-507472167e9c6426b097ad8694fdc0a9 *inst/doc/MarkRank.pdf
+af6b79fc172da24516d9b1ed0cd16dab *inst/doc/MarkRank.pdf
 60666a4b58da62863162a3a2dbf8d516 *man/Corbi-package.Rd
 0ca05217cfd5864dc49fc2fba56e0605 *man/best_subnets.Rd
 cd67b12ef6442c445ce3af67c2ca8a1e *man/column.Rd
@@ -25,6 +25,8 @@ e184dc245d5dd832f40d5a85c538fffb *man/markrank.Rd
 bab61a74fa8c12cb5c9168a6ddfe7472 *man/net_align.Rd
 fbeb51d00f203296b2f06eea84e5c3ae *man/net_query.Rd
 c362e96f471eef92ebf75ff779913604 *man/nnzero.Rd
+cb1c985116d4b75cead53ea59cf4136d *man/pmultihyper.Rd
+546bdf08a22fa510f8030607a0d524ce *man/pmultinom.Rd
 b6011ddf482de17bef6d88a9a291035c *man/read_net.Rd
 91157dc78f57baa7665f7b306aebb241 *man/rmultihyper.Rd
 c02bd3a53d4e861026771520d368046a *man/submatrix.Rd
@@ -33,10 +35,10 @@ e485664bb652d7e55cbcc1fb4e0600c3 *man/write_net.Rd
 a616a265277bc7df2299126657bce199 *src/Corbi.h
 5e366483217ac19f7f83be7259e11947 *src/NetQuery.cpp
 699c0fedbdcc71a18571d6d4e6fdd4c5 *src/ProAlign.cpp
-2eb011c06ffc181edb031ed145e4a0ba *src/Subnets.cpp
+303ba16516eaf42ab1e550ff09ac8131 *src/Subnets.cpp
 456e985d1bcc96a38dac9c7ae1f636df *src/misc.cpp
 d5afe9606e7b724551042a452043dfc5 *src/misc.h
-6aa408b220d420a63905dcdfd6b49a6e *src/multihyper.cpp
+aebe2d7116c462a32b6ebb0e97a25450 *src/multihyper.cpp
 a68790d0e4cc5bc1a926838c6083b7ba *tests/net_align/answer1.txt
 d9602b4a2d7de3f59abee92de27c042e *tests/net_align/answer1_uni.txt
 13f6765b3012f560e7a8e484d9b6e7f6 *tests/net_align/net1.txt
