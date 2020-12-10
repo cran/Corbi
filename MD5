@@ -1,10 +1,10 @@
-dc719bb1520739804660278d956c4a82 *DESCRIPTION
+40634383fb2e4a5ada02c2150426e42d *DESCRIPTION
 15f1bd805a7426ebba39f478553e087a *NAMESPACE
 4c2979c7a3f2c8a94ba9a84d1c8e8a64 *R/Corbi-package.R
 80681c66b3cda2c33da0cff94ba4c2bd *R/deg_normalization.R
 2da6006a24297b72df7dff6396e20ffd *R/deg_rationet.R
 e7b651ed36e71cda9fb673ae759633d8 *R/deg_simulation.R
-dd7c393d645b28fb5dd5ae8cab821465 *R/markrank.R
+bf6192866bf1dbabd417b2ab968360ad *R/markrank.R
 04d9b251740daba6ed1872d31afa4382 *R/multihyper.R
 0f057dc5131c87a5353002cc3d54a64c *R/net_align.R
 cb0418287a4ea8c0fd842dec32bdf193 *R/net_functions.R
@@ -14,10 +14,10 @@ cb0418287a4ea8c0fd842dec32bdf193 *R/net_functions.R
 43ee2375f1e5c43ef91fe1f2f816639b *R/subnets.R
 01da9b2e428958b95007353935685ffa *R/utils.R
 dba81f89add0144865ec07dbf6946038 *README.md
-bd5a36c36aed23bcc9ba76334ffda99c *build/vignette.rds
+58d45f7b5fd1be5ade9d14fea387f0d0 *build/vignette.rds
 50c5f68e198256b4d7e2de74e128c785 *inst/doc/MarkRank.R
 674747c619c079e69f06d3be10155d8c *inst/doc/MarkRank.Rmd
-b840a88ad679c0ba6c5c97821fc66c2c *inst/doc/MarkRank.pdf
+f22be16acb2ec01826bbfcb3c662e568 *inst/doc/MarkRank.pdf
 74458465a34e3ef11947167195e4c5a2 *man/Corbi-package.Rd
 d3e15a16f4451d2016b568af571272f8 *man/URG_getFactor.Rd
 e9afbe575e193c615579886ad75027c7 *man/URG_normalize.Rd

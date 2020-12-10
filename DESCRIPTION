@@ -1,5 +1,5 @@
 Package: Corbi
-Version: 0.6-0
+Version: 0.6-1
 Title: Collection of Rudimentary Bioinformatics Tools
 Description: Provides a bundle of basic and fundamental bioinformatics tools,
     such as network querying and alignment, subnetwork extraction and search,
@@ -10,14 +10,14 @@ Authors@R: c(person("Ling-Yun", "Wu", role = c("aut", "cre"), email =
     "dcsun@amss.ac.cn"))
 ByteCompile: TRUE
 Depends: R (>= 3.0.2)
-Imports: Matrix
-Suggests: knitr, rmarkdown, BiocParallel, CRF, MASS, stats, matrixcalc,
-        mpmi, fitdistrplus, igraph
+Imports: Matrix, MASS, stats, CRF, igraph
+Suggests: knitr, rmarkdown, BiocParallel, matrixcalc, mpmi,
+        fitdistrplus
 VignetteBuilder: knitr
 License: GPL (>= 2)
 BugReports: https://github.com/wulingyun/Corbi/issues
 URL: https://github.com/wulingyun/Corbi
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Encoding: UTF-8
 Author: Ling-Yun Wu [aut, cre],
   Qiang Huang [aut],
@@ -25,8 +25,8 @@ Author: Ling-Yun Wu [aut, cre],
 Maintainer: Ling-Yun Wu <wulingyun@gmail.com>
 Repository: CRAN
 Repository/R-Forge/Project: corbi
-Repository/R-Forge/Revision: 41
-Repository/R-Forge/DateTimeStamp: 2020-06-11 10:43:57
-Date/Publication: 2020-06-13 16:20:03 UTC
+Repository/R-Forge/Revision: 43
+Repository/R-Forge/DateTimeStamp: 2020-12-10 03:17:17
+Date/Publication: 2020-12-10 09:00:17 UTC
 NeedsCompilation: yes
-Packaged: 2020-06-11 11:08:29 UTC; rforge
+Packaged: 2020-12-10 04:01:22 UTC; rforge
